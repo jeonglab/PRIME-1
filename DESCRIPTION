@@ -10,7 +10,7 @@ Imports:
     edgeR,
     matrixStats,
     Matrix,
-    Seurat,
+    Seurat (>= 3.0.2),
     irlba,
     parallelDist
 LinkingTo:
