@@ -23,8 +23,8 @@ LinkingTo:
     irlba,
     parallelDist
 Depends:
-    R (>= 3.5.2),
-    RcppArmadillo (>= 0.9.500.2.0),
+    R (== 3.5.2),
+    RcppArmadillo (== 0.9.500.2.0),
     Rcpp (>= 1.0.1),
     edgeR (>= 3.24.3),
     matrixStats (>= 0.54.0),
