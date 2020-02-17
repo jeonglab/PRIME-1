@@ -12,7 +12,8 @@ Imports:
     Matrix,
     Seurat (>= 3.0.2),
     irlba,
-    parallelDist
+    parallelDist,
+    bitops
 LinkingTo:
     RcppArmadillo,
     Rcpp,
@@ -21,7 +22,8 @@ LinkingTo:
     Matrix,
     Seurat,
     irlba,
-    parallelDist
+    parallelDist,
+    bitops
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
